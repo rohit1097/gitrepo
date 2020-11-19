@@ -1,2 +1,1 @@
  first content
-second content
